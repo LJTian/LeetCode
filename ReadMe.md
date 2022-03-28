@@ -11,6 +11,18 @@
 - 0015、三数和为0
   - [https://leetcode-cn.com/problems/3sum/](https://leetcode-cn.com/problems/3sum/) (高频老题）
 
+## 链表
+### Linked List 实战题目(LinkedList)
+- 0206、反转链表
+  - https://leetcode-cn.com/problems/reverse-linked-list/
+- 0024、交换节点
+  - https://leetcode-cn.com/problems/swap-nodes-in-pairs
+- 0141、快慢指针
+  - https://leetcode-cn.com/problems/linked-list-cycle
+- https://leetcode-cn.com/problems/linked-list-cycle-ii
+- https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
 
-test1: 合并有序序列
+
+## 其它
+test1: 合并有序序列  
 test2: 求最大子集和
