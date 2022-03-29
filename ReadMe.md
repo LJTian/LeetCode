@@ -19,7 +19,8 @@
   - https://leetcode-cn.com/problems/swap-nodes-in-pairs
 - 0141、快慢指针
   - https://leetcode-cn.com/problems/linked-list-cycle
-- https://leetcode-cn.com/problems/linked-list-cycle-ii
+- 0142、环链表2 
+  - https://leetcode-cn.com/problems/linked-list-cycle-ii
 - https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
 
 
