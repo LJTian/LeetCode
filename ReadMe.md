@@ -3,13 +3,18 @@
 ## 数组
 ### Array 实战题目(Array)
 - 0011、水池
-  - [https://leetcode-cn.com/problems/container-with-most-water/](https://leetcode-cn.com/problems/container-with-most-water/)
+  - https://leetcode-cn.com/problems/container-with-most-water/
 - 0283、移动零
-  - [https://leetcode-cn.com/problems/move-zeroes/](https://leetcode-cn.com/problems/move-zeroes/)
+  - https://leetcode-cn.com/problems/move-zeroes/
 - 0070、上台阶 
-  - [https://leetcode-cn.com/problems/climbing-stairs/](https://leetcode-cn.com/problems/climbing-stairs/)
-- 0015、三数和为0
-  - [https://leetcode-cn.com/problems/3sum/](https://leetcode-cn.com/problems/3sum/) (高频老题）
+  - https://leetcode-cn.com/problems/climbing-stairs/
+- 0015、三数和为0 (高频老题）
+  - https://leetcode-cn.com/problems/3sum/
+- 0026、删除有序数组中的重复项
+  - https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+- 189、轮转数组
+  - https://leetcode-cn.com/problems/rotate-array/
+
 
 ## 链表
 ### Linked List 实战题目(LinkedList)
@@ -21,8 +26,16 @@
   - https://leetcode-cn.com/problems/linked-list-cycle
 - 0142、环链表2 
   - https://leetcode-cn.com/problems/linked-list-cycle-ii
-- https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+- 0025、K一组翻转链表(太难了，知道思路，当场写出来的可能性也很小)
+  - https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
 
+## 课后作业
+
+- https://leetcode-cn.com/problems/merge-two-sorted-lists/
+- https://leetcode-cn.com/problems/merge-sorted-array/
+- https://leetcode-cn.com/problems/two-sum/
+- https://leetcode-cn.com/problems/move-zeroes/
+- https://leetcode-cn.com/problems/plus-one/
 
 ## 其它
 test1: 合并有序序列  
