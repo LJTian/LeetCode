@@ -28,10 +28,11 @@
   - https://leetcode-cn.com/problems/linked-list-cycle-ii
 - 0025、K一组翻转链表(太难了，知道思路，当场写出来的可能性也很小)
   - https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+- 0021、两个升序链表合并
+  - https://leetcode-cn.com/problems/merge-two-sorted-lists/
 
 ## 课后作业
 
-- https://leetcode-cn.com/problems/merge-two-sorted-lists/
 - https://leetcode-cn.com/problems/merge-sorted-array/
 - https://leetcode-cn.com/problems/two-sum/
 - https://leetcode-cn.com/problems/move-zeroes/
