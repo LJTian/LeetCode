@@ -14,6 +14,12 @@
   - https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
 - 189、轮转数组
   - https://leetcode-cn.com/problems/rotate-array/
+- 0088、合并有序数组
+  - https://leetcode-cn.com/problems/merge-sorted-array/
+- 0001、两数之和
+  - https://leetcode-cn.com/problems/two-sum/
+- 0066、大数加1
+  - https://leetcode-cn.com/problems/plus-one/
 
 
 ## 链表
@@ -33,10 +39,6 @@
 
 ## 课后作业
 
-- https://leetcode-cn.com/problems/merge-sorted-array/
-- https://leetcode-cn.com/problems/two-sum/
-- https://leetcode-cn.com/problems/move-zeroes/
-- https://leetcode-cn.com/problems/plus-one/
 
 ## 其它
 test1: 合并有序序列  
