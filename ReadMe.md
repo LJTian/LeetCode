@@ -36,8 +36,13 @@
   - https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
 - 0021、两个升序链表合并
   - https://leetcode-cn.com/problems/merge-two-sorted-lists/
-
+## 字符串
+### string (string)
+- 242、有效的字母异位词
+  - https://leetcode-cn.com/problems/valid-anagram/description/
 ## 课后作业
+- https://leetcode-cn.com/problems/group-anagrams/
+- https://leetcode-cn.com/problems/two-sum/description/
 
 
 ## 其它
