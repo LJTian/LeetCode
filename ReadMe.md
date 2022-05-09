@@ -48,3 +48,11 @@
 ## 其它
 test1: 合并有序序列  
 test2: 求最大子集和
+
+## 热门100 
+- 001、两数之和
+  - https://leetcode.cn/problems/two-sum/
+- 002、两数相加
+  - https://leetcode.cn/problems/add-two-numbers/
+- 003、无重复最长子串
+  - https://leetcode.cn/problems/longest-substring-without-repeating-characters/
