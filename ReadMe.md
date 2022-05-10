@@ -56,3 +56,5 @@ test2: 求最大子集和
   - https://leetcode.cn/problems/add-two-numbers/
 - 003、无重复最长子串
   - https://leetcode.cn/problems/longest-substring-without-repeating-characters/
+- 005、最长回文子串
+  - https://leetcode.cn/problems/longest-palindromic-substring/ 
