@@ -58,5 +58,7 @@ test2: 求最大子集和
   - https://leetcode.cn/problems/longest-substring-without-repeating-characters/
 - 005、最长回文子串
   - https://leetcode.cn/problems/longest-palindromic-substring/ 
+- 020、有效括号
+  - https://leetcode.cn/problems/valid-parentheses/
 - 121、买卖股票的最佳时机
   - https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/
