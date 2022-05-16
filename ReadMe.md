@@ -64,6 +64,4 @@ test2: 求最大子集和
   - https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/
 - 136、只出现一次的数字
   - https://leetcode.cn/problems/single-number/
-- 155、最小栈
-  - https://leetcode.cn/problems/min-stack/
 
