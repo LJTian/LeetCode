@@ -44,6 +44,9 @@
 - https://leetcode-cn.com/problems/group-anagrams/
 - https://leetcode-cn.com/problems/two-sum/description/
 
+## 二叉树
+- 剑指Offer55、II. 平衡二叉树(C写的)
+  - https://leetcode.cn/problems/ping-heng-er-cha-shu-lcof/
 
 ## 其它
 test1: 合并有序序列  
